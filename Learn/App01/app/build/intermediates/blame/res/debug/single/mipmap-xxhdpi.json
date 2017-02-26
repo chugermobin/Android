@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chugermobin/Desktop/App01/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/chugermobin/Desktop/App01/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/FLASH DRIVE/App01/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/FLASH DRIVE/App01/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
