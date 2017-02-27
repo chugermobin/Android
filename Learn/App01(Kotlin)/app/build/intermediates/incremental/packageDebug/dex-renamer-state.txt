@@ -1,7 +1,0 @@
-#Sun Feb 26 07:43:55 CST 2017
-base.0=/Users/chugermobin/Desktop/App01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97537b8e86088350c736e813a20421e0995dafef
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/chugermobin/Desktop/App01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08c1ad447982907352d0a933f2ad63cffda7cf07/classes.dex
-base.1=/Users/chugermobin/Desktop/App01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08c1ad447982907352d0a933f2ad63cffda7cf07
-file.0=/Users/chugermobin/Desktop/App01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97537b8e86088350c736e813a20421e0995dafef/classes.dex
