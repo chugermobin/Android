@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">App02---猜紅心A</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_title">猜猜看紅心A是哪一張?</string>
+    <string name="str_button">再玩一次</string>
+    <string name="str_right">哇!你猜對了喔!!拍拍手!</string>
+    <string name="str_again">你猜錯了喔!!要不要再試一次?</string>
+
+</resources>
