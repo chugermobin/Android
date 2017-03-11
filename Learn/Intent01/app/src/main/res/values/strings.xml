@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~  諸葛魔斌科技創作室 版權所有
+  ~  ChuGerMoBin Technology Creative Studio All Rights Reserved.
+  -->
+
+<resources>
+    <string name="app_name">Intent01</string>
+    <string name="benz">給我 Benz</string>
+    <string name="bmw">給我 BMW</string>
+    <string name="car">給我一台車</string>
+</resources>

@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~  諸葛魔斌科技創作室 版權所有
+  ~  ChuGerMoBin Technology Creative Studio All Rights Reserved.
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
